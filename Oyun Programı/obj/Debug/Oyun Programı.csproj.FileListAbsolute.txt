@@ -1,0 +1,33 @@
+C:\Users\EMRE\Desktop\Oyun Programı\Oyun Programı\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\EMRE\Desktop\Oyun Programı\Oyun Programı\obj\Debug\Oyun_Programı.Form1.resources
+C:\Users\EMRE\Desktop\Oyun Programı\Oyun Programı\obj\Debug\Oyun_Programı.Properties.Resources.resources
+C:\Users\EMRE\Desktop\Oyun Programı\Oyun Programı\obj\Debug\Oyun Programı.csproj.GenerateResource.Cache
+C:\Users\EMRE\Desktop\Oyun Programı\Oyun Programı\bin\Debug\Oyun Programı.exe
+C:\Users\EMRE\Desktop\Oyun Programı\Oyun Programı\bin\Debug\Oyun Programı.pdb
+C:\Users\EMRE\Desktop\Oyun Programı\Oyun Programı\obj\Debug\Oyun Programı.exe
+C:\Users\EMRE\Desktop\Oyun Programı\Oyun Programı\obj\Debug\Oyun Programı.pdb
+C:\Users\EMRE\Desktop\Programlama Ödevler\(36)Programlama Ödevi\Oyun Programı\Oyun Programı\obj\Debug\Oyun Programı.exe
+C:\Users\EMRE\Desktop\Programlama Ödevler\(36)Programlama Ödevi\Oyun Programı\Oyun Programı\obj\Debug\Oyun Programı.pdb
+C:\Users\EMRE\Desktop\Programlama Ödevler\(36)Programlama Ödevi\Oyun Programı\Oyun Programı\bin\Debug\Oyun Programı.exe
+C:\Users\EMRE\Desktop\Programlama Ödevler\(36)Programlama Ödevi\Oyun Programı\Oyun Programı\bin\Debug\Oyun Programı.pdb
+C:\Users\EMRE\Desktop\Programlama Ödevler\(36)Programlama Ödevi\Oyun Programı\Oyun Programı\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\EMRE\Desktop\Programlama Ödevler\(36)Programlama Ödevi\Oyun Programı\Oyun Programı\obj\Debug\Oyun_Programı.Ana_Sayfa.resources
+C:\Users\EMRE\Desktop\Programlama Ödevler\(36)Programlama Ödevi\Oyun Programı\Oyun Programı\obj\Debug\Oyun_Programı.Properties.Resources.resources
+C:\Users\EMRE\Desktop\Programlama Ödevler\(36)Programlama Ödevi\Oyun Programı\Oyun Programı\obj\Debug\Oyun Programı.csproj.GenerateResource.Cache
+C:\Users\genel\Desktop\(36)Programlama Ödevi\Oyun Programı\Oyun Programı\obj\Debug\Oyun Programı.exe
+C:\Users\genel\Desktop\(36)Programlama Ödevi\Oyun Programı\Oyun Programı\obj\Debug\Oyun Programı.pdb
+C:\Users\genel\Desktop\(36)Programlama Ödevi\Oyun Programı\Oyun Programı\bin\Debug\Oyun Programı.exe
+C:\Users\genel\Desktop\(36)Programlama Ödevi\Oyun Programı\Oyun Programı\bin\Debug\Oyun Programı.pdb
+C:\Users\genel\Desktop\(36)Programlama Ödevi\Oyun Programı\Oyun Programı\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\genel\Desktop\(36)Programlama Ödevi\Oyun Programı\Oyun Programı\obj\Debug\Oyun_Programı.Ana_Sayfa.resources
+C:\Users\genel\Desktop\(36)Programlama Ödevi\Oyun Programı\Oyun Programı\obj\Debug\Oyun_Programı.Properties.Resources.resources
+C:\Users\genel\Desktop\(36)Programlama Ödevi\Oyun Programı\Oyun Programı\obj\Debug\Oyun Programı.csproj.GenerateResource.Cache
+C:\Users\sude\Desktop\Oyun Programı\Oyun Programı\bin\Debug\Oyun Programı.exe
+C:\Users\sude\Desktop\Oyun Programı\Oyun Programı\bin\Debug\Oyun Programı.pdb
+C:\Users\sude\Desktop\Oyun Programı\Oyun Programı\obj\Debug\Oyun Programı.csprojAssemblyReference.cache
+C:\Users\sude\Desktop\Oyun Programı\Oyun Programı\obj\Debug\Oyun_Programı.Ana_Sayfa.resources
+C:\Users\sude\Desktop\Oyun Programı\Oyun Programı\obj\Debug\Oyun_Programı.Properties.Resources.resources
+C:\Users\sude\Desktop\Oyun Programı\Oyun Programı\obj\Debug\Oyun Programı.csproj.GenerateResource.cache
+C:\Users\sude\Desktop\Oyun Programı\Oyun Programı\obj\Debug\Oyun Programı.csproj.CoreCompileInputs.cache
+C:\Users\sude\Desktop\Oyun Programı\Oyun Programı\obj\Debug\Oyun Programı.exe
+C:\Users\sude\Desktop\Oyun Programı\Oyun Programı\obj\Debug\Oyun Programı.pdb
